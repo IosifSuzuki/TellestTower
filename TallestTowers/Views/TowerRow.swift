@@ -12,7 +12,6 @@ struct TowerRow: View {
           .font(.subheadline)
       }
       Spacer()
-      
       Text(tower.formattedHeight)
         .font(.title)
     }
