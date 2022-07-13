@@ -4,7 +4,7 @@ import MapKit
 struct MapView: UIViewRepresentable {
   var coordinate: CLLocationCoordinate2D
   var latLonDelta: CLLocationDegrees
-
+  
   func makeUIView(context: Context) -> MKMapView {
     let mapView = MKMapView(frame: .zero)
     mapView.mapType = .satellite
