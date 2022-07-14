@@ -161,6 +161,7 @@
 		5519C158234E33420022E332 /* TallestTowers */ = {
 			isa = PBXGroup;
 			children = (
+				84BF1AE12880BDC500955838 /* Resource */,
 				55088B8E234F678D006CF75A /* Models */,
 				55088B90234F67AC006CF75A /* Controllers */,
 				55088B8F234F6799006CF75A /* Views */,
@@ -197,6 +198,13 @@
 				5535C79B2382FF7B00E65B03 /* Info.plist */,
 			);
 			path = TallestTowersScreenshots;
+			sourceTree = "<group>";
+		};
+		84BF1AE12880BDC500955838 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
