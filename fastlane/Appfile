@@ -1,0 +1,2 @@
+app_identifier("myTest.app")
+apple_id("appleId@gmail.com")
